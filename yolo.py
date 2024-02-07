@@ -1,4 +1,3 @@
-import zipfile
 import os
 from ultralytics import YOLO
 
